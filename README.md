@@ -42,4 +42,5 @@ JOIN, LEFT JOIN, RIGHT JOIN
 
 ### Объединение таблиц при помощи Join и другие команды смотреть в [Block № 3](https://github.com/AndreiBra/SQL/blob/main/Block%20№%203.sql)
 
+___
 ![Графическое объединение таблиц JOIN](https://github.com/AndreiBra/SQL/blob/main/SQL%20JOINS.png)
