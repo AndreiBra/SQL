@@ -41,3 +41,5 @@ CREATE TABLE, INSERT INTO, ALTER TABLE, PRIMARY KEY, FOREIGN KEY
 JOIN, LEFT JOIN, RIGHT JOIN
 
 ### Объединение таблиц при помощи Join и другие команды смотреть в [Block № 3](https://github.com/AndreiBra/SQL/blob/main/Block%20№%203.sql)
+
+![Графическое объединение таблиц JOIN](https://user-images.githubusercontent.com/100410326/155848305-dc6d62af-abea-4b50-9f2c-862710025c19.png)
