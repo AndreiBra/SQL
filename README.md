@@ -32,6 +32,7 @@ CREATE TABLE, INSERT INTO, ALTER TABLE, PRIMARY KEY, FOREIGN KEY
 
 ### Варианты создания, наполнения таблиц и выборку по ним смотреть [Block № 2](https://github.com/AndreiBra/SQL/blob/main/Block%20№%202.sql)
 
+
 ---
 
  ## Block № 3
